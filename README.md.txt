@@ -1,1 +1,0 @@
-Some elements of preload screen are not polished.
